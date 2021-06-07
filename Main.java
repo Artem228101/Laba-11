@@ -19,7 +19,7 @@ public class Main {
             }
         }
         else {
-            System.out.println("Restart program.");
+            System.out.println("Рестарт программы.");
         }
     }
 }
